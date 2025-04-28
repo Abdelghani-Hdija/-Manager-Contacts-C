@@ -17,7 +17,6 @@ You can add, delete, search, and view contacts easily through a menu-driven inte
 
 ## Files
 - `Main.c`: Source code of the project.
-- `Makefile`: (Optional) To build the project easily using `make`.
 
 ## License
 This project is open source and free to use.
